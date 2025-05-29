@@ -22,6 +22,6 @@ This project implements and compares two self-supervised learning techniques for
 1. Make sure `ssl_dataset` is placed in the same directory as the notebooks.
 2. Install dependencies (if needed):
    ```bash
-   pip install tensorflow numpy matplotlib scikit-learn
+   pip install tensorflow numpy matplotlib scikit-learn tqdm
 3. Note: The dataset (ssl_dataset) is not uploaded due to size constraints. A placeholder and instructions are included in the repo.
 
