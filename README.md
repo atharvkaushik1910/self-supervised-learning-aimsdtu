@@ -7,7 +7,7 @@ This project implements and compares two self-supervised learning techniques for
 
 ## Folder Structure
 ```
-📦 self-supervised-learning-aimsdtu
+ self-supervised-learning-aimsdtu
 ├─ DTU_Research_Intern_Round_2_Project_Report (1).pdf
 ├─ MAE_TF_Linear_Probing (1).ipynb
 ├─ MAE_TF_Pretraining (3).ipynb
