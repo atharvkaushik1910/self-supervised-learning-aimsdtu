@@ -6,6 +6,16 @@ This project implements and compares two self-supervised learning techniques for
 - **MAE (Masked Autoencoder)** (Masked Image Modelling)
 
 ## Folder Structure
+```
+📦 self-supervised-learning-aimsdtu
+├─ DTU_Research_Intern_Round_2_Project_Report (1).pdf
+├─ MAE_TF_Linear_Probing (1).ipynb
+├─ MAE_TF_Pretraining (3).ipynb
+├─ README.md
+├─ SimCLR_Linear_Probing_(1) (2).ipynb
+└─ SimCLR_TF_Pretraining_(1).ipynb
+```
+
 
 \begin{verbatim}
 submission/
