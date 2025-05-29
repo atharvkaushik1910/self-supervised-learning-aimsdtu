@@ -17,29 +17,11 @@ This project implements and compares two self-supervised learning techniques for
 ```
 
 
-\begin{verbatim}
-submission/
-├── ssl_dataset/
-│   ├── train.X1/
-│   ├── train.X2/
-│   ├── train.X3/
-│   ├── train.X4/
-│   ├── val.X/
-│   └── Labels.json
-├── SimCLR_TF_Pretraining.ipynb
-├── SimCLR_Linear_Probing.ipynb
-├── MAE_TF_Pretraining.ipynb
-├── MAE_TF_Linear_Probing.ipynb
-├── simclr_encoder.h5
-├── mae_encoder_tf.h5
-├── report.pdf
-└── README.md
-\end{verbatim}
-
-
 ## Setup Instructions
 
 1. Make sure `ssl_dataset` is placed in the same directory as the notebooks.
 2. Install dependencies (if needed):
    ```bash
    pip install tensorflow numpy matplotlib scikit-learn
+3. Note: The dataset (ssl_dataset) is not uploaded due to size constraints. A placeholder and instructions are included in the repo.
+
