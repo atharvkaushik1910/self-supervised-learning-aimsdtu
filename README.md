@@ -7,7 +7,24 @@ This project implements and compares two self-supervised learning techniques for
 
 ## Folder Structure
 
-<pre> \`\`\` submission/ ├── ssl_dataset/ │ ├── train.X1/ │ ├── train.X2/ │ ├── train.X3/ │ ├── train.X4/ │ ├── val.X/ │ └── Labels.json ├── SimCLR_TF_Pretraining.ipynb ├── SimCLR_Linear_Probing.ipynb ├── MAE_TF_Pretraining.ipynb ├── MAE_TF_Linear_Probing.ipynb ├── simclr_encoder.h5 ├── mae_encoder_tf.h5 ├── report.pdf └── README.md \`\`\` </pre>
+\begin{verbatim}
+submission/
+├── ssl_dataset/
+│   ├── train.X1/
+│   ├── train.X2/
+│   ├── train.X3/
+│   ├── train.X4/
+│   ├── val.X/
+│   └── Labels.json
+├── SimCLR_TF_Pretraining.ipynb
+├── SimCLR_Linear_Probing.ipynb
+├── MAE_TF_Pretraining.ipynb
+├── MAE_TF_Linear_Probing.ipynb
+├── simclr_encoder.h5
+├── mae_encoder_tf.h5
+├── report.pdf
+└── README.md
+\end{verbatim}
 
 
 ## Setup Instructions
